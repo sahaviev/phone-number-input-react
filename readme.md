@@ -9,6 +9,10 @@ Fully covered with unit-tests.
 1. Node 18
 2. yarn / npm
 
+### Install
+
+`yarn`
+
 ### Tests
 
 `yarn test`
