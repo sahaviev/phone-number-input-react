@@ -1,7 +1,7 @@
 
 ### Description
 
-Phone number input developed with Vite(React + TypeScript template).
+Phone number input developed with [Vitejs](https://vitejs.dev/)(React + TypeScript template).
 Fully covered with unit-tests.
 
 ### Requirements
