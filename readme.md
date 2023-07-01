@@ -1,7 +1,7 @@
 
 ### Description
 
-Phone number input developed with React + TypeScript.
+Phone number input developed with Vite(React + TypeScript template).
 Fully covered with unit-tests.
 
 ### Requirements
@@ -37,5 +37,4 @@ Snapshots:   0 total
 Time:        2.355 s
 Ran all test suites.
 ✨  Done in 3.80s.
-
 ```
